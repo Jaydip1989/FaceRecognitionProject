@@ -6,4 +6,3 @@ I have used the Python library face_recognition library. That accurately identif
 ![](Screenshots/SS3.png)
 
 ![](Screenshots/SS5.png)
-
